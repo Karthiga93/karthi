@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>LOGIN</title>
+<title>LOGIN </title>
 </head>
 <body>
-
+Username
+Password
 
 
 </body>

@@ -1,6 +1,6 @@
 <%@ page language="java" import="java.sql.*;"%>
 <html>
-<head>
+<head>Heading
 </head>
 <body>
 <%
